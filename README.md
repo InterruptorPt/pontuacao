@@ -1,1 +1,1 @@
-# pontuacao
+# Dos pontos e das vírgulas
